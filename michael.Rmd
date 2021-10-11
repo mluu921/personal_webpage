@@ -1,0 +1,39 @@
+---
+title: "Michael Luu, MPH"
+image: "michael_headshot_circle.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  # - label: Twitter
+  #   url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:mluu921@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+# Bio
+
+Michael Luu, MPH, is a research biostatistician at the Samuel Oschin Comprehensive Cancer Institute. Luu received his master’s in public health with an emphasis in biostatistics and epidemiology at the University of Southern California in 2015. He is a proficient R programmer who was also trained in SAS, STATA and SPSS. His experience involves survival analysis, predictive modeling and data visualizations, among other areas. Current and past projects involve analysis of large national inpatient databases such as the National Cancer Database, SEER-Medicare from the National Cancer Institute, Healthcare Cost and Utilization Project, California’s Office of Statewide Health Planning and Development and Pediatrics Health Information Systems. Before joining Cedars-Sinai in 2016, he served as a biostatistician at Children’s Hospital Los Angeles for the Division of Neonatology and Department of Anesthesia Critical Care Medicine.
+
+# Education
+
+**University of Southern California** | Los Angeles, MCA
+
+M.P.H in Biostatistics & Epidemiology | 2015
+
+**University of California, Irvine** | Irvine, CA
+
+B.Sc. in Biological Sciences | 2009
+
+# Experience
+
+**Research Biostatistician II** | Cedars-Sinai Cancer Center | 2016 - Present
+
+**Research Biostatistican I** | Children's Hospital Los Angeles | 2016
+
+**Quality Improvement Analyst** | Children's Hospital Los Angeles | 2015-2016
+
+**Epidemiology & Outcomes Research Intern** | Children's Hospital Los Angeles | 2014-2015
