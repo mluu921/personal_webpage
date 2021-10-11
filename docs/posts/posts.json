@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/2021-10-11-welcome/",
+    "title": "Welcome",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Unknown",
+        "url": {}
+      }
+    ],
+    "date": "2021-10-11",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-10-11T16:32:35-07:00",
+    "input_file": {}
+  }
+]
