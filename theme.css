@@ -80,6 +80,11 @@ body {
   background-color: #FFFFFF;
 }
 
+a.title {
+  width: 151px;
+  height: 55px;
+}
+
 *, ::after, ::before {
     box-sizing: border-box;
 }
