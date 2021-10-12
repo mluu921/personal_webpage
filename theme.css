@@ -79,3 +79,7 @@ d-appendix {
 body {
   background-color: #FFFFFF;
 }
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
