@@ -11,7 +11,7 @@ links:
   - label: Email
     url: "mailto:mluu921@gmail.com"
 output:
-  postcards::trestles
+  postcards::solana
 site: distill::distill_website
 ---
  
